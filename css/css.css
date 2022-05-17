@@ -425,7 +425,7 @@ footer .footer-social-link a i.fa-instagram:hover {
 
 .fisrt-contact-section {
   position: relative;
-  background: url(../Image/contact_us.jpg) fixed center;
+  background: url(../image/contact_us.jpg) fixed center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -572,7 +572,7 @@ footer .footer-social-link a i.fa-instagram:hover {
 
 .fisrt-aboutus-section {
   position: relative;
-  background: url(../Image/aboutus.jpg) fixed center;
+  background: url(../image/aboutus.jpg) fixed center;
   background-repeat: no-repeat;
   background-size: cover;
 }
